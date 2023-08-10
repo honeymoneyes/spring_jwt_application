@@ -34,7 +34,7 @@ Open the file server/src/main/resources/application.yml and update the following
 ```
 
 ### Run the Application Using Maven:
-Open a terminal, navigate to the project root directory (jwt_security), and run the following command:
+Open a terminal, navigate to the project root directory (spring_jwt_application), and run the following command:
 
 ```
 mvn spring-boot:run
