@@ -74,6 +74,7 @@ Incorrect credentials
 
 ![ImageAlt](https://github.com/honeymoneyes/spring_jwt_application/blob/master/src/main/resources/static/incorrect_credentials.png)
 
+
 Endpoint access for authenticated users without a token or with an incorrect one
 
 ![ImageAlt](https://github.com/honeymoneyes/spring_jwt_application/blob/master/src/main/resources/static/access_to_authenticated_endpoint_without_jwt_token.png)
