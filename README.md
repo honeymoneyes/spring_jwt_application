@@ -43,7 +43,7 @@ mvn spring-boot:run
 The application will start running at http://localhost:8080.
 
 ### Perform the registration:
-By doing the registration you get a JVT token with which you can fulfill requests for authenticated users.
+By doing the registration you get a JWT token with which you can fulfill requests for authenticated users.
 
 ![ImageAlt](https://github.com/honeymoneyes/spring_jwt_application/blob/master/src/main/resources/static/registration.png)
 
